@@ -1,3 +1,5 @@
+//friends
+
 var friendsData = [
     {
       name: "Bruce Banner",
