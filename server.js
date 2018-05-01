@@ -6,8 +6,8 @@ var path = require('path');
 
 
 // Link in html and api routes
-var apiRoutes = require('./app/routing/api-routes.js');
-var htmlRoutes = require('./app/routing/html-routes.js');
+var apiRoutes = require('./app/routes/apiRoutes.js');
+var htmlRoutes = require('./app/routes/htmlRoutes.js');
 
 
 
